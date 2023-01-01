@@ -1,6 +1,6 @@
-### Hi there 👋
+Hi there 👋
 
-I am Rajesh Naik, An engineering student.
+
 
 <!--
 **Rajeshsnaik/Rajeshsnaik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
